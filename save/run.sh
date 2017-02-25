@@ -26,7 +26,7 @@ while [ $# -gt 0 ]; do
 				convert -resize $2 $f $f
 			done
 			echo -e "Done resizing images.\n\n"
-			cd ../..
+			cd ..
 			shift;;
 			
 		("search")
@@ -38,11 +38,11 @@ while [ $# -gt 0 ]; do
 				echo "Requires video file."
 				exit 1
 			fi
-			path=$3/$4
+			path=$3
 			echo "Converting video into images with fps : 0.5"
-			ffmpeg -i $2 -r 0.5 -vf transpose=2 $3/$4/out%3d.jpg
+			ffmpeg -i $2 -r 0.5 -vf transpose=2 $path/out%3d.jpg
 			echo -e "Done converting video.\n\n"
-			shift 3;;
+			shift 2;;
 			
 		(*)
 			echo "Unknown command $1 ." 
@@ -83,7 +83,7 @@ echo "</images>
 <Number>$i</Number>
 </opencv_storage>">>images.xml
 
-cd ../..
+cd ..
 
 xmlstarlet edit -L -u "opencv_storage/Settings/Input" -v $path/images.xml default.xml
 
