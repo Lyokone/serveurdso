@@ -1,0 +1,39 @@
+Calibration avec opencv
+=======================
+
+Yo !
+
+Images : prendre une 10 - 15 photos d'un echequier. Pour ne pas que l'algo prenne une heure, mieux vaut resize les images.
+-------	L'argument "resize WxH!" lors du lancement du script permet de le faire automatiquement.
+
+Configuration : les lignes qu'il faut modifier sont dans le fichier "default.xml" : BoardSize_Width et BoardSize_Heigth.
+--------------	Elles correspondent aux nombre de COINS de l'echequier, et non de cases. 
+				Lors du premier lancement du script, il faut utiliser l'argument "search". Le programme prend un peu de temps,
+				puis ecrit sur le terminal les meilleurs dimensions possibles. Il faut ensuite les ecrires dans "default.xml",
+				pour ne pas utiliser "search" a chaque fois.
+
+Calibration : fouttre les images dans le dossier "images", le script fait le reste.
+------------
+
+Resultats : theorie : dans "out_camera_data.xml", il faut la premiere matrice, de taille 3 x 3 normalement.
+----------			On cherche a completer la premiere ligne de la config par fx fy cx cy 0.0 , 
+					qui correspondent a 4 valeurs de la matrice. Pour plus d'info :
+					http://docs.opencv.org/2.4/modules/imgproc/doc/geometric_transformations.html#initundistortrectifymap
+					sous cameraMatrix.
+					
+			pratique : la ligne a rajouter est affichee dans le terminal, et le fichier "camera.txt" est directement cree.
+	
+	
+
+Affichage : On peut modifier la duree d'affichage des image lors de la calibration dans "default.xml". Il faut modifier
+----------	la valeur "DisplayDelay" au debut du fichier. La mettre a zero permet d'attendre l'appui sur une touche avant de
+			passer a l'image suivante.
+		
+		
+Remarque sur les portable : Certains enregistrent les videos et les images avec des resolutions differentes, voir des ratios
+--------------------------  differents, il vaut mieux prendre une video de l'echequier et en extraire certaines images 
+							(en utilisant par exemple VLC avec le raccourci "Shift + s").
+		
+		
+					
+						Voila donc c'est bien chiant mais ca marche !!!
