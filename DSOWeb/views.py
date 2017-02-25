@@ -11,7 +11,7 @@ def upload_file(request):
     if request.method == "POST":
         form = UploadFileForm(request.POST, request.FILES)
         if form.is_valid():
-            res = save_file_calib(request.FILES["file"], request.FILES["file"].name, form.cleaned_data['user'], form.cleaned_data['phone'], form.cleaned_data['calibB'])
+            res = save_file_calib(request.FILES["file"], form.cleaned_data["title"], form.cleaned_data['user'], form.cleaned_data['phone'], form.cleaned_data['calibB'])
             return HttpResponseRedirect("/DSOWeb/"+res)
 
     else:
