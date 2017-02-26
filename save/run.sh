@@ -40,7 +40,7 @@ while [ $# -gt 0 ]; do
 			fi
 			path=$3
 			echo "Converting video into images with fps : 0.5"
-			ffmpeg -i $2 -r 0.5 -vf transpose=2 $path/out%3d.jpg
+			ffmpeg -i $2 -vf fps=0.5 $path/out%3d.jpg
 			echo -e "Done converting video.\n\n"
 			shift 2;;
 			
