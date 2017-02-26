@@ -28,3 +28,11 @@ def calibcreated(request):
 
 def caliberror(request):
     return render(request,'DSOWeb/caliberror.html')
+
+
+def model3dcreated(request):
+    return render(request,'DSOWeb/model3dcreated.html')
+
+
+def calibdontexist(request):
+    return render(request,'DSOWeb/calibdontexist.html')
