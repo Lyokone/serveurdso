@@ -1,6 +1,9 @@
 import os
 from pathlib import Path
 
+from DSOWeb.models import User, Calib, CalibVideo
+from django.utils import timezone
+
 
 def save_file_calib(f, name, user, phone, calib):
     files = ["calib", "camera_calibration.cpp", "default.xml", "run.sh", "images.sh", "createpoints.sh", "dso_dataset"]
@@ -10,6 +13,9 @@ def save_file_calib(f, name, user, phone, calib):
             os.system("mkdir " + 'save/' + user)
             for x in files:
                 os.system("cp " + 'save/' + x +' save/' + user + "/" + x)
+
+            u = User(username=user, signup_time=timezone.now())
+            u.save()
 
             print("Dossier User créé")
 
@@ -39,11 +45,26 @@ def save_file_calib(f, name, user, phone, calib):
 
         calib_phone = Path("phone_calib/" + phone)
         if calib_phone.exists():
+            calib_phone = open("phone_calib/" + phone, "r")
+            c = Calib.objects.get(phonename=phone)
+
+            cc = CalibVideo(user=u, video_name=name, video_size=str(f.size), phonename=phone, calib=c)
+            cc.save()
             return "calibexist"
         else:
             os.system("cp save/" + user +"/camera.txt phone_calib/" + phone)
 
+            calib_phone = open("phone_calib/" + phone, "r")
+            c1 = calib_phone.readline()
+            calib_phone.readline()
+            c2 = calib_phone.readline()
+            c = Calib(calib_text=c1, calib_size=c2, phonename=phone)
+            c.save()
+
+            cc = CalibVideo(user=u, video_name=name, video_size=str(f.size), phonename=phone, calib=c)
+            cc.save()
             return "calibcreated"
+
 
     else:
         calib_phone = Path("phone_calib/" + phone)
@@ -60,7 +81,7 @@ def save_file_calib(f, name, user, phone, calib):
                 for x in files:
                     os.system("cp " + 'save/' + x + ' save/' + user + "/" + x)
 
-                print("Dossier User créé")
+                print("Dossier User cree")
 
             print("Utilisateur : " + name)
 

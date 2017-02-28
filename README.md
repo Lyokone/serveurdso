@@ -1,3 +1,3 @@
 # serveurdso
 
-Need to Install xmlstarlet, ffmpeg
+Need to install xmlstarlet, ffmpeg

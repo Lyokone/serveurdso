@@ -423,7 +423,7 @@ int main(int argc, char* argv[])
 				}
 
 				// Draw the corners.
-				drawChessboardCorners( view, s.boardSize, Mat(pointBuf), found );
+				//drawChessboardCorners( view, s.boardSize, Mat(pointBuf), found );
 		}
 
 		//----------------------------- Output Text ------------------------------------------------
@@ -454,7 +454,7 @@ int main(int argc, char* argv[])
 		}
 
 		//------------------------------ Show image and check for input commands -------------------
-		imshow("Image View", view);
+		/*imshow("Image View", view);
 		//char key = (char)waitKey(s.inputCapture.isOpened() ? 50 : s.delay);
 		char key = (char)waitKey(s.displayDelay);						// Added by max
 		
@@ -469,10 +469,10 @@ int main(int argc, char* argv[])
 		{
 			mode = CAPTURING;
 			imagePoints.clear();
-		}
+		}*/
 	}
 
-	// -----------------------Show the undistorted image for the image list ------------------------
+	/* -----------------------Show the undistorted image for the image list ------------------------ guillaume
 	if( s.inputType == Settings::IMAGE_LIST && s.showUndistorsed )
 	{
 		Mat view, rview, map1, map2;
@@ -492,7 +492,7 @@ int main(int argc, char* argv[])
 			if( c  == ESC_KEY || c == 'q' || c == 'Q' )
 				break;
 		}
-	}
+	}*/
 
 
 	return 0;
