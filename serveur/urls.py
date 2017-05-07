@@ -19,5 +19,6 @@ from django.contrib import admin
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^DSOWeb/', include('DSOWeb.urls')),
+    url(r'^3DReconstruct/', include('openmvgmvs.urls')),
     url(r'^', include('landingpage.urls')),
 ]
