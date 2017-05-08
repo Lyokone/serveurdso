@@ -1,88 +1,176 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebe8b844-2f06-47e2-b1f9-2390bec7b690" name="Default" comment="Améliorations, inteface administrateur">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/css/images/bg01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/css/images/bg02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/css/images/bg03.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/images/MarcDansSonJardin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/images/banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/images/bg-cta.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/images/pic01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/images/pic02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/images/pic03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/images/pic04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Untitled.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/css/ie8.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/css/ie9.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/js/ie/PIE.htc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/js/ie/backgroundsize.min.htc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/js/ie/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/js/ie/respond.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/js/jquery.dropotron.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/js/skel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/js/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/sass/ie8.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/sass/ie9.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/sass/libs/_functions.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/sass/libs/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/sass/libs/_skel.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/sass/libs/_vars.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/assets/sass/main.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/templates/landingpage/fonctionnalites.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/templates/landingpage/telechargement.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/openmvgmvs.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/static/3DReconstruct/Detector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/static/3DReconstruct/MTLLoader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/static/3DReconstruct/OBJLoader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/static/3DReconstruct/OBJLoader2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/static/3DReconstruct/OBJViwer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/static/3DReconstruct/OrbitControls.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/static/3DReconstruct/PLYLoader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/static/3DReconstruct/TrackballControls.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/static/3DReconstruct/dat.gui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/static/3DReconstruct/stats.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/static/3DReconstruct/three.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/templates/3DReconstruct/Detector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/templates/3DReconstruct/OBJViwer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/templates/3DReconstruct/PLYLoader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/templates/3DReconstruct/PLYViewer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/templates/3DReconstruct/calibdontexist.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/templates/3DReconstruct/caliberror.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/templates/3DReconstruct/calibexist.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/templates/3DReconstruct/model3dcreated.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/templates/3DReconstruct/stats.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/templates/3DReconstruct/three.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/templates/3DReconstruct/upload.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/openmvgmvs/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sensor_width_camera_database.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/landingpage/templates/landingpage/index.html" afterPath="$PROJECT_DIR$/openmvgmvs/templates/3DReconstruct/calibcreated.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/serveur.iml" afterPath="$PROJECT_DIR$/.idea/serveur.iml" />
+    <list default="true" id="ebe8b844-2f06-47e2-b1f9-2390bec7b690" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/img/DSO.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/img/DSO2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/img/DSO3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/img/DSO4.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/img/DSO5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/img/bg-cta.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/img/bg-pattern.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/img/chateau.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/img/demo-screen-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/apple_watch/edition/gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/apple_watch/edition/rose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/apple_watch/sport/black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/apple_watch/sport/blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/apple_watch/sport/green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/apple_watch/sport/red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/apple_watch/sport/white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/apple_watch/watch/metal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/apple_watch/watch/steel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/galaxy_s3/s3_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/galaxy_s3/s3_land_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/galaxy_s3/s3_port_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/galaxy_s3/s3_port_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/galaxy_s5/galaxy_s5_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/galaxy_s5/galaxy_s5_land_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/galaxy_s5/galaxy_s5_land_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/galaxy_s5/galaxy_s5_port_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/galaxy_s5/galaxy_s5_port_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/galaxy_s5/galaxy_s5_port_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/galaxy_tab4/galaxy_tab4_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/galaxy_tab4/galaxy_tab4_land_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/galaxy_tab4_small/galaxy_tab4_black_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/galaxy_tab4_small/galaxy_tab4_white_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/imac/imac.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/ipad/ipad_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/ipad/ipad_land_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/ipad/ipad_port_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/ipad/ipad_port_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/ipad_air/ipad_air_gray_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/ipad_air/ipad_air_gray_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/ipad_air/ipad_air_silver_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/ipad_air/ipad_air_silver_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/ipad_air_2/ipad_air_2_gold_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/ipad_air_2/ipad_air_2_gold_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/ipad_air_2/ipad_air_2_gray_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/ipad_air_2/ipad_air_2_gray_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/ipad_air_2/ipad_air_2_silver_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/ipad_air_2/ipad_air_2_silver_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/ipad_pro/ipad_pro_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/ipad_pro/ipad_pro_land_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/ipad_pro/ipad_pro_land_silver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/ipad_pro/ipad_pro_port_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/ipad_pro/ipad_pro_port_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/ipad_pro/ipad_pro_port_silver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone5/iphone5_land.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone5/iphone5_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone5/iphone5_land_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone5/iphone5_port_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone5/iphone5_port_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone_6/iphone_6_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone_6/iphone_6_land_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone_6/iphone_6_land_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone_6/iphone_6_port_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone_6/iphone_6_port_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone_6/iphone_6_port_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone_6_plus/iphone_6_plus_black_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone_6_plus/iphone_6_plus_black_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone_6_plus/iphone_6_plus_gold_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone_6_plus/iphone_6_plus_gold_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone_6_plus/iphone_6_plus_white_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone_6_plus/iphone_6_plus_white_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone_se/iphone_se_land_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone_se/iphone_se_land_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone_se/iphone_se_land_rose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone_se/iphone_se_land_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone_se/iphone_se_port_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone_se/iphone_se_port_gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone_se/iphone_se_port_rose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/iphone_se/iphone_se_port_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/lumia920/lumia920_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/lumia920/lumia920_land.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/lumia920/lumia920_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/lumia_930/lumia_930_dark_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/lumia_930/lumia_930_dark_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/lumia_930/lumia_930_light_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/lumia_930/lumia_930_light_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/macbook/macbook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/macbook_2015/gold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/macbook_2015/grey.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/macbook_2015/silver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/nexus7/nexus7_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/nexus7/nexus7_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/nexus_6/nexus_6_land.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/nexus_6/nexus_6_port.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/samsung_tv/samsung_tv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/surface/surface.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/simple-line-icons/fonts/Simple-Line-Icons.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/simple-line-icons/fonts/Simple-Line-Icons.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/simple-line-icons/fonts/Simple-Line-Icons.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/css/new-age.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/css/new-age.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/img/app-store-badge.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/img/css/new-age.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/img/css/new-age.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/img/google-play-badge.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/js/new-age.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/js/new-age.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/less/new-age.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/device-mockups.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/device-mockups.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/device-mockups2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/device-mockups/device-mockups2.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/jquery/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/jquery/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/simple-line-icons/css/simple-line-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/simple-line-icons/fonts/Simple-Line-Icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/simple-line-icons/less/simple-line-icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/landingpage/static/landingpage/vendor/simple-line-icons/scss/simple-line-icons.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/landingpage/templates/landingpage/index.html" afterPath="$PROJECT_DIR$/landingpage/templates/landingpage/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/landingpage/urls.py" afterPath="$PROJECT_DIR$/landingpage/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/landingpage/views.py" afterPath="$PROJECT_DIR$/landingpage/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serveur/settings.py" afterPath="$PROJECT_DIR$/serveur/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/serveur/urls.py" afterPath="$PROJECT_DIR$/serveur/urls.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -100,36 +188,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/landingpage/templates/landingpage/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="59" lean-forward="false" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
+            <state relative-caret-position="401">
+              <caret line="50" column="91" lean-forward="false" selection-start-line="50" selection-start-column="91" selection-end-line="50" selection-end-column="91" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="telechargement.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/landingpage/templates/landingpage/telechargement.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="30" column="75" lean-forward="false" selection-start-line="30" selection-start-column="75" selection-end-line="30" selection-end-column="75" />
-              <folding>
-                <element signature="e#2538#2544#0#HTML" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fonctionnalites.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/landingpage/templates/landingpage/fonctionnalites.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="65" column="89" lean-forward="false" selection-start-line="65" selection-start-column="89" selection-end-line="65" selection-end-column="89" />
-              <folding>
-                <element signature="e#4201#4207#0#HTML" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -138,7 +202,7 @@
         <entry file="file://$PROJECT_DIR$/landingpage/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -177,7 +241,7 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/openmvgmvs/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="210">
               <caret line="21" column="78" lean-forward="false" selection-start-line="21" selection-start-column="78" selection-end-line="21" selection-end-column="78" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -189,7 +253,7 @@
       <file leaf-file-name="openmvgmvs.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/openmvgmvs/openmvgmvs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
+            <state relative-caret-position="660">
               <caret line="44" column="28" lean-forward="false" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
@@ -225,9 +289,11 @@
       <find>../../static/</find>
       <find>print</find>
       <find>WebGlr</find>
+      <find>images</find>
       <find>assets</find>
     </findStrings>
     <replaceStrings>
+      <replace>static/landingpage/images</replace>
       <replace>static/landingpage/assets</replace>
     </replaceStrings>
     <dirStrings>
@@ -266,13 +332,13 @@
         <option value="$PROJECT_DIR$/openmvgmvs/static/3DReconstruct/OBJLoader.js" />
         <option value="$PROJECT_DIR$/openmvgmvs/templates/3DReconstruct/OBJViwer.html" />
         <option value="$PROJECT_DIR$/openmvgmvs/views.py" />
-        <option value="$PROJECT_DIR$/openmvgmvs/openmvgmvs.py" />
         <option value="$PROJECT_DIR$/serveur/settings.py" />
         <option value="$PROJECT_DIR$/landingpage/views.py" />
         <option value="$PROJECT_DIR$/landingpage/templates/landingpage/telechargement.html" />
-        <option value="$PROJECT_DIR$/landingpage/templates/landingpage/index.html" />
         <option value="$PROJECT_DIR$/landingpage/urls.py" />
         <option value="$PROJECT_DIR$/landingpage/templates/landingpage/fonctionnalites.html" />
+        <option value="$PROJECT_DIR$/openmvgmvs/openmvgmvs.py" />
+        <option value="$PROJECT_DIR$/landingpage/templates/landingpage/index.html" />
       </list>
     </option>
   </component>
@@ -404,6 +470,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="serveurdso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="serveurdso" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="landingpage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="landingpage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -435,6 +527,117 @@
       <recent name="$PROJECT_DIR$/openmvgmvs" />
       <recent name="$PROJECT_DIR$/landingpage/templates/landingpage" />
     </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/landingpage/templates/landingpage/index.html</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/landingpage/static/landingpage/images/PointdInterrogation.png</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -762,22 +965,29 @@
       <option name="project" value="LOCAL" />
       <updated>1488290795958</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="OpenMVG - OpenMVS">
+      <created>1494165823217</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1494165823217</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30708182" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37857142" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29591838" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20510204" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30341882" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20510204" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -786,6 +996,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
@@ -818,7 +1029,8 @@
     <MESSAGE value="Take name in account" />
     <MESSAGE value="Ajout de DSO" />
     <MESSAGE value="Améliorations, inteface administrateur" />
-    <option name="LAST_COMMIT_MESSAGE" value="Améliorations, inteface administrateur" />
+    <MESSAGE value="OpenMVG - OpenMVS" />
+    <option name="LAST_COMMIT_MESSAGE" value="OpenMVG - OpenMVS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -862,20 +1074,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/landingpage/static/landingpage/css/new-age.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/landingpage/static/landingpage/vendor/jquery/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/landingpage/static/landingpage/css/new-age.css" />
+    <entry file="file://$PROJECT_DIR$/landingpage/static/landingpage/vendor/jquery/jquery.js" />
     <entry file="file://$PROJECT_DIR$/landingpage/migrations/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -944,7 +1144,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="25" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -959,7 +1158,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -967,7 +1165,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -983,7 +1180,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -991,7 +1187,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="885">
           <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1006,12 +1201,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1493102944000" expanded="true" signature="1193:1203" ph="..." />
-            <marker date="1493102944000" expanded="true" signature="1291:1301" ph="..." />
-            <marker date="1493102944000" expanded="true" signature="1457:1467" ph="..." />
-            <marker date="1493102944000" expanded="true" signature="1554:1564" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1019,7 +1208,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1027,7 +1215,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5231">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1035,7 +1222,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="95" column="95" lean-forward="false" selection-start-line="95" selection-start-column="29" selection-end-line="95" selection-end-column="95" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1043,7 +1229,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-885">
           <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1051,7 +1236,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1059,7 +1243,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1067,7 +1250,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1075,23 +1257,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="11115">
           <caret line="741" column="2" lean-forward="false" selection-start-line="741" selection-start-column="2" selection-end-line="741" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/openmvgmvs/static/OrbitControls.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/openmvgmvs/static/OrbitControls.js" />
     <entry file="file://$PROJECT_DIR$/openmvgmvs/static/3DReconstruct/TrackballControls.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1099,23 +1272,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/openmvgmvs/static/3DReconstruct/WWOBJLoader2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-384">
-          <caret line="30" column="67" lean-forward="true" selection-start-line="30" selection-start-column="67" selection-end-line="30" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/openmvgmvs/static/3DReconstruct/WWOBJLoader2.js" />
     <entry file="file://$PROJECT_DIR$/openmvgmvs/templates/3DReconstruct/upload.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="58" lean-forward="false" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1123,7 +1287,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1131,7 +1294,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="589">
           <caret line="273" column="62" lean-forward="false" selection-start-line="273" selection-start-column="62" selection-end-line="273" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1143,16 +1305,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/openmvgmvs/openmvgmvs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="44" column="28" lean-forward="false" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/serveur/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-985">
@@ -1161,11 +1313,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/landingpage/templates/landingpage/index.html">
+    <entry file="file://$PROJECT_DIR$/landingpage/templates/landingpage/fonctionnalites.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="59" lean-forward="false" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
-          <folding />
+        <state relative-caret-position="975">
+          <caret line="65" column="89" lean-forward="false" selection-start-line="65" selection-start-column="89" selection-end-line="65" selection-end-column="89" />
         </state>
       </provider>
     </entry>
@@ -1173,19 +1324,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="30" column="75" lean-forward="false" selection-start-line="30" selection-start-column="75" selection-end-line="30" selection-end-column="75" />
-          <folding>
-            <element signature="e#2538#2544#0#HTML" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/openmvgmvs/views.py">
+    <entry file="file://$PROJECT_DIR$/landingpage/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="78" lean-forward="false" selection-start-line="21" selection-start-column="78" selection-end-line="21" selection-end-column="78" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1213,21 +1359,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/landingpage/urls.py">
+    <entry file="file://$PROJECT_DIR$/openmvgmvs/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="210">
+          <caret line="21" column="78" lean-forward="false" selection-start-line="21" selection-start-column="78" selection-end-line="21" selection-end-column="78" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/landingpage/templates/landingpage/fonctionnalites.html">
+    <entry file="file://$PROJECT_DIR$/openmvgmvs/openmvgmvs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="65" column="89" lean-forward="false" selection-start-line="65" selection-start-column="89" selection-end-line="65" selection-end-column="89" />
+        <state relative-caret-position="660">
+          <caret line="44" column="28" lean-forward="false" selection-start-line="44" selection-start-column="28" selection-end-line="44" selection-end-column="28" />
           <folding>
-            <element signature="e#4201#4207#0#HTML" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landingpage/templates/landingpage/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="50" column="91" lean-forward="false" selection-start-line="50" selection-start-column="91" selection-end-line="50" selection-end-column="91" />
+          <folding />
         </state>
       </provider>
     </entry>
